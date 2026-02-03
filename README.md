@@ -13,9 +13,23 @@ Transform raw business data into actionable insights through comprehensive data 
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+## 📊 Dashboard Preview
 
-*Interactive Business Intelligence Dashboard showing key performance indicators, sales trends, and customer insights*
+### Executive Summary Page
+![Executive Summary](images/Screenshot%202026-02-03%20234818.png)
+*High-level KPIs, sales trends, and top performers overview*
+
+### Customer Intelligence Page
+![Customer Intelligence](images/Screenshot%202026-02-03%20234828.png)
+*Customer segment analysis and behavioral insights*
+
+### Product Analytics Page
+![Product Analytics](images/Screenshot%202026-02-03%20234835.png)
+*Product performance comparison and profitability analysis*
+
+### Financial Intelligence Page
+![Financial Intelligence](images/Screenshot%202026-02-03%20235100.png)
+*Detailed financial metrics and operational insights*
 
 ## 🔍 Key Business Insights
 
