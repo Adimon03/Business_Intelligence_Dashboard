@@ -181,9 +181,9 @@ python analysis/database_setup.py
 
 ## 🔗 Links & Resources
 
-- **📊 Power BI Dashboard**: [Download .pbix file](powerbi/business_intelligence_dashboard.pbix)
+- **📊 Power BI Dashboard**: [Download .pbix file](powerbi/Business%20Intelligence%20Dashboard.pbix)
 - **📋 Setup Guide**: [Complete installation instructions](docs/setup_guide.md)
-- **💾 Database**: [SQLite database file](data/business_intelligence.db)
+- **💾 Raw Data**: [Original Excel file](data/raw/Financial%20Sample.xlsx)
 - **🐍 Analysis Code**: [Python scripts](analysis/)
 
 ## 📞 Contact
