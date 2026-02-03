@@ -13,8 +13,6 @@ Transform raw business data into actionable insights through comprehensive data 
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 ### Executive Summary Page
 ![Executive Summary](images/Screenshot%202026-02-03%20234818.png)
 *High-level KPIs, sales trends, and top performers overview*
@@ -50,17 +48,6 @@ Transform raw business data into actionable insights through comprehensive data 
 - **Premium Products**: 42.9% of transactions, driving $110.6M in sales
 - **Seasonal Patterns**: Strong Q4 performance with consistent growth trends
 - **Market Opportunities**: Government segment shows highest profitability
-
-## 📈 Analysis Results
-
-### KPI Dashboard
-![KPI Cards](images/kpi_cards.png)
-
-### Sales Performance Analysis
-![Sales Analysis](images/sales_analysis.png)
-
-### Trend Analysis
-![Trends Charts](images/trends_charts.png)
 
 ## 🛠️ Technologies & Skills Demonstrated
 
